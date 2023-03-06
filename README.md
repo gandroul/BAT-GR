@@ -12,3 +12,4 @@ Data includes 356 fully completed questionnaires regarding:
 - HADSs.csv: responses on the 14 items of HADS.
 - HADS.csv: score for A and D dimensions of HADS.
 
+File results-survey785459.csv contains all 629 questionnaires (fully completed and non-completed) as exported from LimeSurvey University of Patras, Department of Business Administration server. 
